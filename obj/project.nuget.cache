@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "3WyFcI/BoU3Za2tUiX4R+4K7kHCzXVQIza69ip1iywzCSzTrzTqamxzC/Pb36AYL40/RBFzdUbcDpzWBCtXGJQ==",
+  "dgSpecHash": "F3lbnr18SLQb7AV7CtLwEbMY+ebkU5M6gqfA8s3cN4xgWEfVZjQChLwBAHQ0q9sJPobof/lCzRCH2/JQpk9gXg==",
   "success": true,
-  "projectFilePath": "/home/eliezer/sandbox/dio/DIO.Series/DIO.Series.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Yuri\\Desktop\\dotnetProjects\\4\\dio-dotnet-poo-lab-2\\DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yuri\\.nuget\\packages\\microsoft.netcore.app\\2.2.8\\microsoft.netcore.app.2.2.8.nupkg.sha512",
+    "C:\\Users\\Yuri\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.8\\microsoft.netcore.dotnetapphost.2.2.8.nupkg.sha512",
+    "C:\\Users\\Yuri\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.8\\microsoft.netcore.dotnethostpolicy.2.2.8.nupkg.sha512",
+    "C:\\Users\\Yuri\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.8\\microsoft.netcore.dotnethostresolver.2.2.8.nupkg.sha512",
+    "C:\\Users\\Yuri\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.4\\microsoft.netcore.platforms.2.2.4.nupkg.sha512",
+    "C:\\Users\\Yuri\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\Yuri\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Yuri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Yuri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512",
+    "C:\\Users\\Yuri\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Yuri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
